@@ -1,0 +1,26 @@
+.tags__input {
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: groove;
+  border-radius: 6%;
+  background-color: white;
+  padding: 5px;
+}
+
+.tags__input:focus {
+  outline: none;
+}
+
+span {
+  margin: 5px;
+  padding: 5px;
+  background-color: lightgray !important;
+}
+.w3-gray,
+.w3-hover-hover-grey:hover,
+.w3-gray,
+.w3-hover-gray:hover {
+  border-radius: 6% !important;
+  color: lightgoldenrodyellow !important;
+}

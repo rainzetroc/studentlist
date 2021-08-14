@@ -1,0 +1,12 @@
+.student {
+  border-bottom: 2px solid rgba(0, 0, 0, 0.05);
+}
+
+::-webkit-scrollbar {
+  width: 2px;
+}
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: gray;
+  border-radius: 2px;
+}

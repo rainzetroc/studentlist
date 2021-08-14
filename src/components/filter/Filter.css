@@ -1,0 +1,21 @@
+.name__filter__input,
+.tag__filter__input {
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: hidden;
+  border-radius: 6%;
+  background-color: white;
+  padding: 5px;
+}
+
+.name__filter__input:focus,
+.tag__filter__input:focus {
+  outline: none;
+}
+
+.name__filter,
+.tag__filter {
+  margin: 0 10px;
+  border-bottom: 2px solid rgba(70, 67, 67, 0.911);
+}
